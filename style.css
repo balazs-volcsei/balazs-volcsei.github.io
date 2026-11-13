@@ -266,37 +266,20 @@ section.block > h2 {
   margin-top: 14px;
 }
 
-.role-line {
-  color: var(--badge-text);
-  font-weight: 600;
-  font-size: 0.95rem;
+.about-card > h3 {
+  font-size: 1.3rem;
   margin-bottom: 12px;
 }
 
-.role-strip {
-  margin-top: 22px;
-  background: var(--badge-bg);
-  border-left: 4px solid var(--primary);
-  border-radius: 8px;
-  padding: 16px 20px;
-  display: grid;
-  gap: 12px;
+.about-roles {
+  margin-top: 6px;
 }
 
-.role-strip h3 {
-  font-size: 0.85rem;
-  font-weight: 600;
-  color: var(--badge-text);
-  margin-bottom: 2px;
+.about-roles .skill-group p {
+  font-size: 0.95rem;
 }
 
-.role-strip p {
-  color: var(--text);
-  font-weight: 500;
-}
-
-.role-strip .sep {
-  color: var(--text-muted);
+.about-roles .sep {
   margin: 0 6px;
 }
 
