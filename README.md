@@ -4,6 +4,7 @@ Personal developer and engineering portfolio of **Balázs Völcsei (Völcsei Bal
 
 - 🌐 Live site: https://balazs-volcsei.github.io/
 - 📱 Shared List project page: https://balazs-volcsei.github.io/shared-list-android/
+- 📱 Flashcard project page: https://balazs-volcsei.github.io/flashcard-android/
 - 💼 LinkedIn: https://www.linkedin.com/in/balazs-volcsei/
 
 ## Tech
